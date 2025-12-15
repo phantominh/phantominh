@@ -2,8 +2,7 @@
 
 I'm currently a PhD student in Computer Science at University of Wisconsin-Madison.
 
-My research lies at the intersection of information retrieval and data management. I work on keyword search for table discovery in data catalogs, where only metadata is available. I'm interested in building modern retrieval systems that are both accurate and practical for commodity hardware.
-
+My research lies at the intersection of information retrieval and data management. I work on keyword search for table discovery in data catalogs, where only metadata is available. My goal is to build modern retrieval systems that are both accurate and practical for commodity hardware.
 <!--
 **phantominh/phantominh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
