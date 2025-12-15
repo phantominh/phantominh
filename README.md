@@ -1,4 +1,9 @@
-## Hi there 👋
+## Xin chào 👋
+
+I'm doing my Ph.D. in Computer Science at University of Wisconsin Madison.
+
+My research lies at the intersection of information retrieval and data management. Specifically, I work on keyword search for table discovery in data catalogs, where only metadata is available.
+
 
 <!--
 **phantominh/phantominh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
